@@ -1,0 +1,79 @@
+-- Pseudocode --
+* For read from file function *
+
+Read from file 'converter.txt'
+Print the different options in 'converter.txt'
+Print what option do you want to choose
+Input option chosen
+Calculate conversion by doing input*optionchosen
+Print Your conversion is the answer to the calculation
+
+
+
+
+-- Pseudocode -- 
+* For the dict file function *
+Currencies: GBP, USD, Euro, Yen
+
+Read the dict's set in the code GBPdict, USDdict, EUROdict, YENdict
+Input1 What would you like to convertfrom
+While Input1 is not equal to 'GBP' 'USD' 'Euro' or 'Yen':
+	Input1 Try again
+
+Input2 what would you like to convertto
+While Input2 is not equal to 'GBP' 'USD' 'Euro' or 'Yen':
+	Input2 Try again
+
+Input3 how much would you like to convert
+
+If Input1 is equal to 'GBP' and Input2 is equal to 'USD':
+	convertedamount will be Input3*amount set to convert GBP-USD in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'GBP' and Input2 is equal to 'Euro':
+	convertedamount will be Input3*amount set to convert GBP-Euro in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'GBP' and Input2 is equal to 'Yen':
+	convertedamount will be Input3*amount set to convert GBP-Yen in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'USD' and Input2 is equal to 'GBP':
+	convertedamount will be Input3*amount set to convert USD-GBP in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'USD' and Input2 is equal to 'Euro':
+	convertedamount will be Input3*amount set to convert USD-Euro in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'USD' and Input2 is equal to 'Yen':
+	convertedamount will be Input3*amount set to convert USD-Yen in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'Euro' and Input2 is equal to 'GBP':
+	convertedamount will be Input3*amount set to convert Euro-GBP in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'Euro' and Input2 us equal to 'USD':
+	convertedamount will be Input3*amount set to convert Euro-USD in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'Euro' and Input2 is equal to 'Yen':
+	convertedamount will be Input3*amount set to convert Euro-Yen in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'Yen' and Input2 is equal to 'GBP':
+	convertedamount will be Input3*amount set to convert Yen-GBP in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'Yen' and Input2 is equal to 'USD':
+	convertedamount will be Input3*amount set to convert Yen-USD in dictionary
+	print the convertedamount
+
+If Input1 is equal to 'Yen' and Input2 is equal to 'Euro':
+	convertedamount will be Input3*amount set to convert Yen-Euro in dictionary
+	print the convertedamount
+
+	end!!!!!
+
+

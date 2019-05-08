@@ -1,0 +1,12 @@
+GBP To USD - 1.68 £ $
+GBP To EURO - 1.22 £ €
+GBP To YEN - 170.7491 £ ¥
+USD To GBP - 0.59 $ £
+USD To EURO - 0.729 $ €
+USD To YEN - 101.834 $ ¥
+EURO To GBP - 0.817 € £
+EURO To USD - 1.371 € $
+EURO To YEN - 139.64 € ¥
+YEN To GBP - 0.00586 ¥ £
+YEN To USD - 0.00982 ¥ $
+YEN To EURO - 0.00716 ¥ €

@@ -1,0 +1,5 @@
+V1:
+the code seemed to be multiplying the wrong value, to fix this
+you would have to put 'num+=1' at the bottom of the loop
+as the readlines figure seems to start from 0 to include
+line 1
